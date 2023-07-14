@@ -21,7 +21,7 @@ Simple phpBB extension to add a Pull To Refresh function for mobile devices.
 3. To permanently uninstall, click `Delete Data` and then delete the `/ext/cabot/pulltorefresh` folder.
 
 ## Credits
-* This extension uses Jordan Singer's [Hook](https://github.com/jordansinger/Hook) jQuery plugin.
+This extension uses Jordan Singer's [Hook](https://github.com/jordansinger/Hook) jQuery plugin.
 
 ## License
 [GNU General Public License v2](http://opensource.org/licenses/GPL-2.0)
