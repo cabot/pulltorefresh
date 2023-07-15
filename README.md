@@ -1,5 +1,6 @@
 # Pull to refresh
 Simple phpBB extension to add a Pull To Refresh function for mobile devices.
+
 Note: you shouldn't need this extension, as Pull To Refresh is natively integrated into touchscreen devices.
 
 ![phpBB 3.3.x Compatible](https://img.shields.io/badge/phpBB-3.3.x%20Compatible%20-blue.svg)
